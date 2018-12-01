@@ -1,0 +1,34 @@
+  .buttons {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .buttons p {
+    font-size: 26px;
+    padding: 20px;
+  }
+  .show-runes {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .show-runes div img  {
+    width: 80%;
+  }
+  .show-runes div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .show-runes div p:nth-child(2) {
+    font-weight: 700;
+  }
+  @media (max-width: 991px) {
+    .show-runes div img {
+      width: 40%;
+    }
+    .buttons p {
+      font-size: 16px;
+    }
+  }

@@ -1,0 +1,101 @@
+{
+  "runeType":[
+    {
+      "runeName":"Algiz",
+      "runeDescription":"opieka, życie, zmartwychwstanie, przebudzenie",
+      "runeLink":"./rune/Algiz.png"
+    }, {
+      "runeName":"Ansuz",
+      "runeDescription":"inspiracja, duch, natchnienie",
+      "runeLink":"./rune/Ansuz.png"
+    }, {
+      "runeName":"Berkano",
+      "runeDescription":"kobiecość, ochrona",
+      "runeLink":"./rune/Berkano.png"
+    }, {
+      "runeName":"Dagaz",
+      "runeDescription":"ochrona, jutrzenka, świt, przełom",
+      "runeLink":"./rune/Dagaz.png"
+    }, {
+      "runeName":"Durisaz",
+      "runeDescription":"niszczycielska siła",
+      "runeLink":"./rune/Durisaz.png"
+    }, {
+      "runeName":"Ehwaz",
+      "runeDescription":"siła, prędkość, współpraca, małżeństwo",
+      "runeLink":"./rune/Ehwaz.png"
+    }, {
+      "runeName":"Eiwaz",
+      "runeDescription":"brama do zaświatów, duchowość, równowaga emocji",
+      "runeLink":"./rune/Eiwaz.png"
+    }, {
+      "runeName":"Fehu",
+      "runeDescription":"bogactwo, ogień, domowe ognisko",
+      "runeLink":"./rune/Fehu.png"
+    }, {
+      "runeName":"Gebo",
+      "runeDescription":"dar, wymiana, równowaga w dawaniu i braniu",
+      "runeLink":"./rune/Gebo.png"
+    }, {
+      "runeName":"Hagal",
+      "runeDescription":"niszczenie i tworzenie, kryzys i odradzanie",
+      "runeLink":"./rune/Hagal.png"
+    }, {
+      "runeName":"Ingwaz",
+      "runeDescription":"pokój, płodność, dojrzałość, cisza, koncentracja",
+      "runeLink":"./rune/Ingwaz.png"
+    }, {
+      "runeName":"Isa",
+      "runeDescription":"ja, ostrożność, skostnienie, zatrzymanie",
+      "runeLink":"./rune/Isa.png"
+    }, {
+      "runeName":"jera",
+      "runeDescription":"cykl życiowy, jego zamknięcie, czas zbiorów, koniec i początek",
+      "runeLink":"./rune/jera.png"
+    }, {
+      "runeName":"Kenaz",
+      "runeDescription":"spojrzenie w głąb siebie i innych, poznanie",
+      "runeLink":"./rune/Kenaz.png"
+    }, {
+      "runeName":"Laukaz",
+      "runeDescription":"woda, zmiany, uwalnianie, uzdrowienie, uczucia",
+      "runeLink":"./rune/Laukaz.png"
+    }, {
+      "runeName":"Mannaz",
+      "runeDescription":"zmiana, człowieczeństwo, wspólnota",
+      "runeLink":"./rune/Mannaz.png"
+    }, {
+      "runeName":"Naudiz",
+      "runeDescription":"bieda, przymus, los, konieczność, rozterka",
+      "runeLink":"./rune/Naudiz.png"
+    }, {
+      "runeName":"Odala",
+      "runeDescription":"ojczyzna, przodkowie, rodzina, dom",
+      "runeLink":"./rune/Odala.png"
+    }, {
+      "runeName":"Petro",
+      "runeDescription":"zagroda, źródło inspiracji, narodziny",
+      "runeLink":"./rune/Petro.png"
+    }, {
+      "runeName":"Raido",
+      "runeDescription":"ruch, taniec, zmiana, podróż, rytm",
+      "runeLink":"./rune/Raido.png"
+    }, {
+      "runeName":"Sowelo",
+      "runeDescription":"energia życia, rozwój, zwycięstwo",
+      "runeLink":"./rune/Sowelo.png"
+    }, {
+      "runeName":"Tiwaz",
+      "runeDescription":"godność, dążenie do celu",
+      "runeLink":"./rune/Tiwaz.png"
+    }, {
+      "runeName":"Uruz",
+      "runeDescription":"zdrowie, pierwotna siła",
+      "runeLink":"./rune/Uruz.png"
+    }, {
+      "runeName":"Wunjo",
+      "runeDescription":"rozkosz, szczęście, przyjaźń, radość",
+      "runeLink":"./rune/Wunjo.png"
+    }
+  ]
+}
